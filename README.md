@@ -2,10 +2,8 @@
 
 After 16 years of a steady, secure career, two amazing kids and in the midst of a global pandemic I quit my job to focus on a career I am passionate about.<br>
 
-- 🔭 I’m currently working on ...CodeCademy BackEnd Engineer Career Path
-- 🌱 I’m currently learning ...more JavaScript for DataViz (three.js / D3.js)
-- 🤔 I’m looking for help with ...Finding my first role in tech
-- 📫 How to reach me: ...[Email](mailto:stevenmcfarlane@hotmail.co.uk) / [LinkedIn](https://www.linkedin.com/in/steven--mcfarlane/) / [GitHub](https://github.com/stmcf/) / [Twitter](https://twitter.com/IAMSMCF/) / 
+
+- How to reach me: ...[Email](mailto:stevenmcfarlane@hotmail.co.uk) / [LinkedIn](https://www.linkedin.com/in/steven--mcfarlane/) / [GitHub](https://github.com/stmcf/) / [Twitter](https://twitter.com/IAMSMCF/) / 
 
 
 
